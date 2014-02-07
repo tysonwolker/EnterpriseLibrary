@@ -1,0 +1,1 @@
+D:\Projects\EnterpriseLibrary\LayeredArchitecture\LayerArchitecture.Core\obj\Debug\LayerArchitecture.Core.csprojResolveAssemblyReference.cache
